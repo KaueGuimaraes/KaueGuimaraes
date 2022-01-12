@@ -17,8 +17,4 @@ I'm Kauê Guimarães.
   <img align="center" alt="KaueGuimaraes-HTML" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
    <img align="center" alt="KaueGuimaraes-Python" height="30" width="30" src="https://user-images.githubusercontent.com/76141331/149172506-a711e6b4-720a-44d1-922f-07fc9498c83d.png">
   </div>
-
-  ##
-<div>
-  <a href="https://www.instagram.com/kaueaguima/" target="_blank"><img src="https://img.icons8.com/windows/50/000000/instagram-new.png" target="_blank"></a>
-</div>
+ 
