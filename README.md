@@ -19,6 +19,7 @@ I'm Kauê Guimarães.
   <img align="center" alt="Python Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5 Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS Symbol" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
+   <img align="center" alt="JavaScript Symbol" height="30" width="35" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
   <img align="center" alt="Lua Symbol" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
    <img align="center" alt="C# Symbol" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
    <img align="center" alt="Java Symbol" height="30" width="30" src="https://user-images.githubusercontent.com/76141331/149172506-a711e6b4-720a-44d1-922f-07fc9498c83d.png">
