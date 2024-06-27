@@ -15,8 +15,10 @@ I'm Kauê Guimarães.
   <div style="display: inline_block"><br>
    <a href="https://github.com/KaueGuimaraes/Certificados" target="_blank" rel="author">Courses Certificates</a><br>
    <a href="https://sasstt.github.io/superanimes.github.io/" target="_blank" rel="author">My Streaming Site</a><br>
-   <a href="https://kaueguimaraes.github.io/HTML-TESTS/index.html" target="_blank" rel="author">Some stuffs</a>
-   <br><br>
+   <a href="https://kaueguimaraes.github.io/HTML-TESTS/index.html" target="_blank" rel="author">Some stuffs</a><br>
+   <a href="https://nivodasneveshistoria.github.io/site/" target="_blank" rel="author">A história do Nivo das Neves (Feira de Ciências 2023)</a><br>
+   <a href="https://tipagemsanguinea.github.io/site/index.html" target="_blank" rel="author">Tipagem Sanguínea (Feira de Ciências 2024)</a><br>
+   <br>
    
   <img align="center" alt="Python Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5 Symbol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
