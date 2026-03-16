@@ -4,8 +4,6 @@ I'm Kauê Guimarães.
 - 💻 I know how to code somethings like LUA / Python / Java etc ...
 - 💡 My main and favorite language is Python.
 - 📓 I'm learning everything I can about computers.
-- 💬 Contact me on discord: Kauê Guimarães#7894.
-- ⭐ I'm proud of being a student of CEPMG Nivo das Neves.
 - 📂 Main Code Editor: &nbsp; [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com)
  <div>
   <a href="https://github.com/KaueGuimaraes">
